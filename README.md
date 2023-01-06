@@ -45,6 +45,9 @@ Silahkan buat docker-compose filenya, kemudian simpan dalam folder `tasks` denga
 ## Task 3 (Orchestration Container System)
 
 1. Apa yang anda ketahui tentang Orchestration Container System?
+  -yang saya ketahui tentang Orchestration Container System adalah sebuah tools yang dapat melayani hosting dalam sebuah grup yang dapat membantu penggunanya seperti
+  Menghubungkan container dengan storage, dapat membuat multiple server, membuat Multiple Server, dan menjaga resources agar tetap dicek secara otomatis.
 2. Kenapa Orchestration Container System seperti Kubernetes sangat popular (menurut anda)?
+  -Karena kuberneter banyak manfaatnya, kuberneter juga terkenal dengan application programming interface (API) untuk mendeploy aplikasi web, batch task, dan database di dalamnya.
 
 Cara pengerjaan, silahkan update file ini tulis jawabanya di bawah ini
